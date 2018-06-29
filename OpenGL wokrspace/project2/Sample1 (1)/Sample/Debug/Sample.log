@@ -1,0 +1,15 @@
+﻿  Sample.cpp
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(418): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(427): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(429): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(431): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(433): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(451): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(453): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(455): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(457): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(767): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(880): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project2\sample1 (1)\sample\sample.cpp(1245): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> D:\OpenGL wokrspace\project2\Sample1 (1)\Sample\Debug\Sample.exe
+  Sample.vcxproj -> D:\OpenGL wokrspace\project2\Sample1 (1)\Sample\Debug\Sample.pdb (Full PDB)

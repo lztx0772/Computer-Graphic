@@ -1,0 +1,7 @@
+﻿  Sample.cpp
+d:\opengl wokrspace\project4\sample\sample.cpp(690): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\opengl wokrspace\project4\sample\sample.cpp(707): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl wokrspace\project4\sample\sample.cpp(719): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl wokrspace\project4\sample\sample.cpp(1442): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> D:\OpenGL wokrspace\project4\Sample\Debug\Sample.exe
+  Sample.vcxproj -> D:\OpenGL wokrspace\project4\Sample\Debug\Sample.pdb (Full PDB)

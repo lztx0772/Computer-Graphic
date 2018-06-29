@@ -1,0 +1,34 @@
+﻿  Project4.cpp
+d:\opengl wokrspace\project4\2\sample\project4.cpp(492): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(493): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(494): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(497): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(498): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(499): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(509): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(510): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(514): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(515): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(621): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(622): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(623): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(627): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(628): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(629): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(646): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(647): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(651): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(652): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1004): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1015): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1021): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1042): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1053): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1054): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1055): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1062): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1070): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1142): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+d:\opengl wokrspace\project4\2\sample\project4.cpp(1801): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> D:\OpenGL wokrspace\project4\2\Sample\Debug\Sample.exe
+  Sample.vcxproj -> D:\OpenGL wokrspace\project4\2\Sample\Debug\Sample.pdb (Full PDB)

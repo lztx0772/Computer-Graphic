@@ -1,0 +1,7 @@
+﻿  project5.cpp
+d:\opengl wokrspace\project5\sample\project5.cpp(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project5\sample\project5.cpp(269): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project5\sample\project5.cpp(280): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\opengl wokrspace\project5\sample\project5.cpp(281): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sample.vcxproj -> D:\OpenGL wokrspace\project5\Sample\Debug\project5.exe
+  Sample.vcxproj -> D:\OpenGL wokrspace\project5\Sample\Debug\project5.pdb (Full PDB)
